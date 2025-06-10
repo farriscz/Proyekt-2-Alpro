@@ -10,7 +10,7 @@ class SinyalEvolusi(Scene):
             ("G", "General Packet Radio Service (2G)", [0.5, 0.7, 0.9, 1.1], ORANGE),
             ("E", "Enhanced Data Rates for GSM Evolution (2.75G)", [0.5, 0.7, 0.9, 1.1], GOLD),
             ("H+", "High Speed Packet Access (3G)", [0.5, 0.7, 0.9, 1.1], YELLOW),
-            ("LTE", "Long Term Evolution (4G)", [0.5, 0.7, 0.9, 1.1], GREEN),
+            ("TOP", "Long Term Evolution (4G)", [0.5, 0.7, 0.9, 1.1], RED),
             ("5G", "5th Generation New Radio (NR)", [0.5, 0.7, 0.9, 1.1], TEAL)
         ]
 
